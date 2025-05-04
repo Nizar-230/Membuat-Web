@@ -3,4 +3,4 @@ MEMBUAT WEB
 - Membuat platform untuk pengelolaaan web
 - Membuat diskusi
 - Menjaga sistem agar terhindar dari attacking cyber
-- Menyelesaikan pekerjaan dengan baik setiap hari
+- Membuat suatu blog
