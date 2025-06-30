@@ -1,0 +1,7 @@
+ PEEMBARUAN ISI WEB UNTUK PEMBARUAN KDEPEAN
+-Menambah fitur pembayaran
+-Membuat pengelolaan databese secara teratur
+-Memastikan otentikasi ke client secara cepat
+-Mengubah tampilan UI web agar dinikmati oleh client
+-Memasang keamanan yang lebih proteksi pada web
+-Merancang semua fitur tambahan untuk kebutuhan clirnt
