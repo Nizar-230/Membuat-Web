@@ -1,5 +1,7 @@
  PEEMBARUAN ISI WEB UNTUK PEMBARUAN KDEPEAN
 -Menambah fitur pembayaran
+    ~ Mengambil payment GateWay pembayaran dari minstrand
+    ~ Menautkan payment ke dalam web 
 -Membuat pengelolaan databese secara teratur
 -Memastikan otentikasi ke client secara cepat
 -Mengubah tampilan UI web agar dinikmati oleh client
